@@ -1,0 +1,1976 @@
+
+xflr5 v6.61
+06.01.2025  14:30:06
+
+Launching Analysis
+
+Launching the 3D Panel Analysis....
+SG6043 wingtip
+Type 1 - Fixed speed polar
+
+Wings as thin surfaces
+Using ring vortices - VLM2
+Using Neumann boundary conditions for wings
+
+Density   =       0.684kg/m3
+Viscosity =    2.39e-05m²/s
+
+Reference Area   =      2.1482m²
+Reference length =      4.5313m
+
+Counted 7252 panel elements
+
+   Mass=       0.000 kg
+
+   ___Center of Gravity Position - Body axis____
+    CoG_x=      0.0000 m
+    CoG_y=      0.0000 m
+    CoG_z=      0.0000 m
+
+   ___Inertia - Body Axis - CoG Origin____
+    Ibxx=           0 kg.m²
+    Ibyy=           0 kg.m²
+    Ibzz=           0 kg.m²
+    Ibxz=           0 kg.m²
+
+   Solving the problem... 
+      Creating the influence matrix...
+      Creating the unit RHS vectors...
+      Performing LU Matrix decomposition...
+      Solving the LU system...
+      Time for linear system solve: 146.975 s
+      Creating source strengths...
+      Calculating doublet strength...
+      Calculating aerodynamic coefficients in the far field plane
+        Calculating point  -15.00°....
+        Calculating point  -14.00°....
+        Calculating point  -13.00°....
+        Calculating point  -12.00°....
+        Calculating point  -11.00°....
+        Calculating point  -10.00°....
+        Calculating point   -9.00°....
+        Calculating point   -8.00°....
+        Calculating point   -7.00°....
+        Calculating point   -6.00°....
+        Calculating point   -5.00°....
+        Calculating point   -4.00°....
+        Calculating point   -3.00°....
+        Calculating point   -2.00°....
+        Calculating point   -1.00°....
+        Calculating point    0.00°....
+        Calculating point    1.00°....
+        Calculating point    2.00°....
+        Calculating point    3.00°....
+        Calculating point    4.00°....
+        Calculating point    5.00°....
+        Calculating point    6.00°....
+        Calculating point    7.00°....
+        Calculating point    8.00°....
+        Calculating point    9.00°....
+        Calculating point   10.00°....
+        Calculating point   11.00°....
+        Calculating point   12.00°....
+        Calculating point   13.00°....
+        Calculating point   14.00°....
+        Calculating point   15.00°....
+
+      Computing On-Body Speeds...
+      Computing Plane for alpha= -15.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =  -1.72m, Re = 450837, Cl = -0.66 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.70m, Re = 450837, Cl = -0.67 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.68m, Re = 450837, Cl = -0.68 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.65m, Re = 450837, Cl = -0.68 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.63m, Re = 450837, Cl = -0.69 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.61m, Re = 450837, Cl = -0.70 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.59m, Re = 450837, Cl = -0.70 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.56m, Re = 450837, Cl = -0.71 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.54m, Re = 450837, Cl = -0.72 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.52m, Re = 450837, Cl = -0.72 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.49m, Re = 450837, Cl = -0.73 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.47m, Re = 450837, Cl = -0.73 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.45m, Re = 450837, Cl = -0.74 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.42m, Re = 450837, Cl = -0.74 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.40m, Re = 450837, Cl = -0.75 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.38m, Re = 450837, Cl = -0.75 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.35m, Re = 450837, Cl = -0.76 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.33m, Re = 450837, Cl = -0.76 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.31m, Re = 450837, Cl = -0.77 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.28m, Re = 450837, Cl = -0.77 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.26m, Re = 450837, Cl = -0.77 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.24m, Re = 450837, Cl = -0.78 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.21m, Re = 450837, Cl = -0.78 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.19m, Re = 450837, Cl = -0.79 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.17m, Re = 450837, Cl = -0.79 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.14m, Re = 450837, Cl = -0.80 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.12m, Re = 450837, Cl = -0.80 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.10m, Re = 450837, Cl = -0.81 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.07m, Re = 454204, Cl = -0.80 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.03m, Re = 460937, Cl = -0.80 could not be interpolated (Clmax = 1.67)
+           Span pos =  -1.00m, Re = 467671, Cl = -0.79 could not be interpolated (Clmax = 1.67)
+           Span pos =  -0.97m, Re = 474405, Cl = -0.78 could not be interpolated (Clmax = 1.67)
+           Span pos =  -0.93m, Re = 481139, Cl = -0.78 could not be interpolated (Clmax = 1.68)
+           Span pos =  -0.90m, Re = 487873, Cl = -0.77 could not be interpolated (Clmax = 1.68)
+           Span pos =  -0.86m, Re = 494606, Cl = -0.77 could not be interpolated (Clmax = 1.68)
+           Span pos =  -0.83m, Re = 501340, Cl = -0.77 could not be interpolated (Clmax = 1.68)
+           Span pos =  -0.80m, Re = 508074, Cl = -0.76 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.76m, Re = 514808, Cl = -0.76 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.73m, Re = 521542, Cl = -0.75 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.70m, Re = 528275, Cl = -0.75 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.66m, Re = 535009, Cl = -0.74 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.63m, Re = 541743, Cl = -0.74 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.59m, Re = 548477, Cl = -0.73 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.56m, Re = 555211, Cl = -0.73 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.53m, Re = 561944, Cl = -0.72 could not be interpolated (Clmax = 1.70)
+           Span pos =  -0.49m, Re = 568678, Cl = -0.72 could not be interpolated (Clmax = 1.70)
+           Span pos =  -0.46m, Re = 575412, Cl = -0.72 could not be interpolated (Clmax = 1.70)
+           Span pos =  -0.42m, Re = 582146, Cl = -0.71 could not be interpolated (Clmax = 1.70)
+           Span pos =  -0.39m, Re = 588879, Cl = -0.71 could not be interpolated (Clmax = 1.71)
+           Span pos =  -0.36m, Re = 595613, Cl = -0.70 could not be interpolated (Clmax = 1.71)
+           Span pos =  -0.32m, Re = 602347, Cl = -0.69 could not be interpolated (Clmax = 1.71)
+           Span pos =  -0.29m, Re = 609081, Cl = -0.69 could not be interpolated (Clmax = 1.71)
+           Span pos =  -0.25m, Re = 615815, Cl = -0.68 could not be interpolated (Clmax = 1.72)
+           Span pos =  -0.22m, Re = 622548, Cl = -0.68 could not be interpolated (Clmax = 1.72)
+           Span pos =  -0.19m, Re = 629282, Cl = -0.67 could not be interpolated (Clmax = 1.72)
+           Span pos =  -0.15m, Re = 636016, Cl = -0.67 could not be interpolated (Clmax = 1.72)
+           Span pos =  -0.12m, Re = 642750, Cl = -0.66 could not be interpolated (Clmax = 1.73)
+           Span pos =  -0.08m, Re = 649484 is outside the flight envelope of polars
+           Span pos =  -0.05m, Re = 656217 is outside the flight envelope of polars
+           Span pos =  -0.02m, Re = 662951 is outside the flight envelope of polars
+           Span pos =   0.02m, Re = 662951 is outside the flight envelope of polars
+           Span pos =   0.05m, Re = 656217 is outside the flight envelope of polars
+           Span pos =   0.08m, Re = 649484 is outside the flight envelope of polars
+           Span pos =   0.12m, Re = 642750, Cl = -0.66 could not be interpolated (Clmax = 1.73)
+           Span pos =   0.15m, Re = 636016, Cl = -0.67 could not be interpolated (Clmax = 1.72)
+           Span pos =   0.19m, Re = 629282, Cl = -0.67 could not be interpolated (Clmax = 1.72)
+           Span pos =   0.22m, Re = 622548, Cl = -0.68 could not be interpolated (Clmax = 1.72)
+           Span pos =   0.25m, Re = 615815, Cl = -0.68 could not be interpolated (Clmax = 1.72)
+           Span pos =   0.29m, Re = 609081, Cl = -0.69 could not be interpolated (Clmax = 1.71)
+           Span pos =   0.32m, Re = 602347, Cl = -0.69 could not be interpolated (Clmax = 1.71)
+           Span pos =   0.36m, Re = 595613, Cl = -0.70 could not be interpolated (Clmax = 1.71)
+           Span pos =   0.39m, Re = 588879, Cl = -0.71 could not be interpolated (Clmax = 1.71)
+           Span pos =   0.42m, Re = 582146, Cl = -0.71 could not be interpolated (Clmax = 1.70)
+           Span pos =   0.46m, Re = 575412, Cl = -0.72 could not be interpolated (Clmax = 1.70)
+           Span pos =   0.49m, Re = 568678, Cl = -0.72 could not be interpolated (Clmax = 1.70)
+           Span pos =   0.53m, Re = 561944, Cl = -0.72 could not be interpolated (Clmax = 1.70)
+           Span pos =   0.56m, Re = 555211, Cl = -0.73 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.59m, Re = 548477, Cl = -0.73 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.63m, Re = 541743, Cl = -0.74 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.66m, Re = 535009, Cl = -0.74 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.70m, Re = 528275, Cl = -0.75 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.73m, Re = 521542, Cl = -0.75 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.76m, Re = 514808, Cl = -0.76 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.80m, Re = 508074, Cl = -0.76 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.83m, Re = 501340, Cl = -0.77 could not be interpolated (Clmax = 1.68)
+           Span pos =   0.86m, Re = 494606, Cl = -0.77 could not be interpolated (Clmax = 1.68)
+           Span pos =   0.90m, Re = 487873, Cl = -0.77 could not be interpolated (Clmax = 1.68)
+           Span pos =   0.93m, Re = 481139, Cl = -0.78 could not be interpolated (Clmax = 1.68)
+           Span pos =   0.97m, Re = 474405, Cl = -0.78 could not be interpolated (Clmax = 1.67)
+           Span pos =   1.00m, Re = 467671, Cl = -0.79 could not be interpolated (Clmax = 1.67)
+           Span pos =   1.03m, Re = 460937, Cl = -0.80 could not be interpolated (Clmax = 1.67)
+           Span pos =   1.07m, Re = 454204, Cl = -0.80 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.10m, Re = 450837, Cl = -0.81 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.12m, Re = 450837, Cl = -0.80 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.14m, Re = 450837, Cl = -0.80 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.17m, Re = 450837, Cl = -0.79 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.19m, Re = 450837, Cl = -0.79 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.21m, Re = 450837, Cl = -0.78 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.24m, Re = 450837, Cl = -0.78 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.26m, Re = 450837, Cl = -0.77 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.28m, Re = 450837, Cl = -0.77 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.31m, Re = 450837, Cl = -0.77 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.33m, Re = 450837, Cl = -0.76 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.35m, Re = 450837, Cl = -0.76 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.38m, Re = 450837, Cl = -0.75 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.40m, Re = 450837, Cl = -0.75 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.42m, Re = 450837, Cl = -0.74 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.45m, Re = 450837, Cl = -0.74 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.47m, Re = 450837, Cl = -0.73 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.49m, Re = 450837, Cl = -0.73 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.52m, Re = 450837, Cl = -0.72 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.54m, Re = 450837, Cl = -0.72 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.56m, Re = 450837, Cl = -0.71 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.59m, Re = 450837, Cl = -0.70 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.61m, Re = 450837, Cl = -0.70 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.63m, Re = 450837, Cl = -0.69 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.65m, Re = 450837, Cl = -0.68 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.68m, Re = 450837, Cl = -0.68 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.70m, Re = 450837, Cl = -0.67 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.72m, Re = 450837, Cl = -0.66 could not be interpolated (Clmax = 1.66)
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha= -14.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =  -1.42m, Re = 450837 is outside the flight envelope of polars
+           Span pos =  -1.40m, Re = 450837, Cl = -0.66 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.38m, Re = 450837, Cl = -0.67 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.35m, Re = 450837, Cl = -0.67 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.33m, Re = 450837, Cl = -0.67 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.31m, Re = 450837, Cl = -0.68 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.28m, Re = 450837, Cl = -0.68 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.26m, Re = 450837, Cl = -0.69 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.24m, Re = 450837, Cl = -0.69 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.21m, Re = 450837, Cl = -0.69 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.19m, Re = 450837, Cl = -0.70 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.17m, Re = 450837, Cl = -0.70 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.14m, Re = 450837, Cl = -0.71 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.12m, Re = 450837, Cl = -0.71 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.10m, Re = 450837, Cl = -0.72 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.07m, Re = 454204, Cl = -0.71 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.03m, Re = 460937, Cl = -0.70 could not be interpolated (Clmax = 1.67)
+           Span pos =  -1.00m, Re = 467671, Cl = -0.70 could not be interpolated (Clmax = 1.67)
+           Span pos =  -0.97m, Re = 474405, Cl = -0.70 could not be interpolated (Clmax = 1.67)
+           Span pos =  -0.93m, Re = 481139, Cl = -0.69 could not be interpolated (Clmax = 1.68)
+           Span pos =  -0.90m, Re = 487873, Cl = -0.69 could not be interpolated (Clmax = 1.68)
+           Span pos =  -0.86m, Re = 494606, Cl = -0.68 could not be interpolated (Clmax = 1.68)
+           Span pos =  -0.83m, Re = 501340, Cl = -0.68 could not be interpolated (Clmax = 1.68)
+           Span pos =  -0.80m, Re = 508074, Cl = -0.67 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.76m, Re = 514808, Cl = -0.67 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.73m, Re = 521542, Cl = -0.67 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.70m, Re = 528275, Cl = -0.66 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.66m, Re = 535009, Cl = -0.66 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.32m, Re = 602347 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 609081 is outside the flight envelope of polars
+           Span pos =  -0.25m, Re = 615815 is outside the flight envelope of polars
+           Span pos =  -0.22m, Re = 622548 is outside the flight envelope of polars
+           Span pos =  -0.19m, Re = 629282 is outside the flight envelope of polars
+           Span pos =  -0.15m, Re = 636016 is outside the flight envelope of polars
+           Span pos =  -0.12m, Re = 642750 is outside the flight envelope of polars
+           Span pos =  -0.08m, Re = 649484 is outside the flight envelope of polars
+           Span pos =  -0.05m, Re = 656217 is outside the flight envelope of polars
+           Span pos =  -0.02m, Re = 662951 is outside the flight envelope of polars
+           Span pos =   0.02m, Re = 662951 is outside the flight envelope of polars
+           Span pos =   0.05m, Re = 656217 is outside the flight envelope of polars
+           Span pos =   0.08m, Re = 649484 is outside the flight envelope of polars
+           Span pos =   0.12m, Re = 642750 is outside the flight envelope of polars
+           Span pos =   0.15m, Re = 636016 is outside the flight envelope of polars
+           Span pos =   0.19m, Re = 629282 is outside the flight envelope of polars
+           Span pos =   0.22m, Re = 622548 is outside the flight envelope of polars
+           Span pos =   0.25m, Re = 615815 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 609081 is outside the flight envelope of polars
+           Span pos =   0.32m, Re = 602347 is outside the flight envelope of polars
+           Span pos =   0.66m, Re = 535009, Cl = -0.66 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.70m, Re = 528275, Cl = -0.66 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.73m, Re = 521542, Cl = -0.67 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.76m, Re = 514808, Cl = -0.67 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.80m, Re = 508074, Cl = -0.67 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.83m, Re = 501340, Cl = -0.68 could not be interpolated (Clmax = 1.68)
+           Span pos =   0.86m, Re = 494606, Cl = -0.68 could not be interpolated (Clmax = 1.68)
+           Span pos =   0.90m, Re = 487873, Cl = -0.69 could not be interpolated (Clmax = 1.68)
+           Span pos =   0.93m, Re = 481139, Cl = -0.69 could not be interpolated (Clmax = 1.68)
+           Span pos =   0.97m, Re = 474405, Cl = -0.70 could not be interpolated (Clmax = 1.67)
+           Span pos =   1.00m, Re = 467671, Cl = -0.70 could not be interpolated (Clmax = 1.67)
+           Span pos =   1.03m, Re = 460937, Cl = -0.70 could not be interpolated (Clmax = 1.67)
+           Span pos =   1.07m, Re = 454204, Cl = -0.71 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.10m, Re = 450837, Cl = -0.72 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.12m, Re = 450837, Cl = -0.71 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.14m, Re = 450837, Cl = -0.71 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.17m, Re = 450837, Cl = -0.70 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.19m, Re = 450837, Cl = -0.70 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.21m, Re = 450837, Cl = -0.69 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.24m, Re = 450837, Cl = -0.69 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.26m, Re = 450837, Cl = -0.69 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.28m, Re = 450837, Cl = -0.68 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.31m, Re = 450837, Cl = -0.68 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.33m, Re = 450837, Cl = -0.67 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.35m, Re = 450837, Cl = -0.67 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.38m, Re = 450837, Cl = -0.67 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.40m, Re = 450837, Cl = -0.66 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.42m, Re = 450837 is outside the flight envelope of polars
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha= -13.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =  -0.32m, Re = 602347 is outside the flight envelope of polars
+           Span pos =  -0.29m, Re = 609081 is outside the flight envelope of polars
+           Span pos =  -0.25m, Re = 615815 is outside the flight envelope of polars
+           Span pos =  -0.22m, Re = 622548 is outside the flight envelope of polars
+           Span pos =  -0.19m, Re = 629282 is outside the flight envelope of polars
+           Span pos =  -0.15m, Re = 636016 is outside the flight envelope of polars
+           Span pos =  -0.12m, Re = 642750 is outside the flight envelope of polars
+           Span pos =  -0.08m, Re = 649484 is outside the flight envelope of polars
+           Span pos =  -0.05m, Re = 656217 is outside the flight envelope of polars
+           Span pos =  -0.02m, Re = 662951 is outside the flight envelope of polars
+           Span pos =   0.02m, Re = 662951 is outside the flight envelope of polars
+           Span pos =   0.05m, Re = 656217 is outside the flight envelope of polars
+           Span pos =   0.08m, Re = 649484 is outside the flight envelope of polars
+           Span pos =   0.12m, Re = 642750 is outside the flight envelope of polars
+           Span pos =   0.15m, Re = 636016 is outside the flight envelope of polars
+           Span pos =   0.19m, Re = 629282 is outside the flight envelope of polars
+           Span pos =   0.22m, Re = 622548 is outside the flight envelope of polars
+           Span pos =   0.25m, Re = 615815 is outside the flight envelope of polars
+           Span pos =   0.29m, Re = 609081 is outside the flight envelope of polars
+           Span pos =   0.32m, Re = 602347 is outside the flight envelope of polars
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha= -12.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha= -11.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha= -10.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha=  -9.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha=  -8.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha=  -7.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha=  -6.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha=  -5.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha=  -4.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha=  -3.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha=  -2.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha=  -1.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha=   0.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha=   1.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha=   2.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha=   3.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha=   4.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha=   5.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha=   6.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha=   7.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha=   8.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha=   9.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha=  10.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha=  11.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =  -1.19m, Re = 450837, Cl = 1.66 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.17m, Re = 450837, Cl = 1.67 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.14m, Re = 450837, Cl = 1.67 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.12m, Re = 450837, Cl = 1.68 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.10m, Re = 450837, Cl = 1.69 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.07m, Re = 454204, Cl = 1.67 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.07m, Re = 454204, Cl = 1.67 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.10m, Re = 450837, Cl = 1.69 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.12m, Re = 450837, Cl = 1.68 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.14m, Re = 450837, Cl = 1.67 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.17m, Re = 450837, Cl = 1.67 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.19m, Re = 450837, Cl = 1.66 could not be interpolated (Clmax = 1.66)
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha=  12.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =  -1.45m, Re = 450837, Cl = 1.66 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.42m, Re = 450837, Cl = 1.67 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.40m, Re = 450837, Cl = 1.68 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.38m, Re = 450837, Cl = 1.69 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.35m, Re = 450837, Cl = 1.69 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.33m, Re = 450837, Cl = 1.70 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.31m, Re = 450837, Cl = 1.71 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.28m, Re = 450837, Cl = 1.71 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.26m, Re = 450837, Cl = 1.72 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.24m, Re = 450837, Cl = 1.73 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.21m, Re = 450837, Cl = 1.74 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.19m, Re = 450837, Cl = 1.74 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.17m, Re = 450837, Cl = 1.75 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.14m, Re = 450837, Cl = 1.76 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.12m, Re = 450837, Cl = 1.77 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.10m, Re = 450837, Cl = 1.77 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.07m, Re = 454204, Cl = 1.76 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.03m, Re = 460937, Cl = 1.75 could not be interpolated (Clmax = 1.67)
+           Span pos =  -1.00m, Re = 467671, Cl = 1.74 could not be interpolated (Clmax = 1.67)
+           Span pos =  -0.97m, Re = 474405, Cl = 1.73 could not be interpolated (Clmax = 1.67)
+           Span pos =  -0.93m, Re = 481139, Cl = 1.72 could not be interpolated (Clmax = 1.68)
+           Span pos =  -0.90m, Re = 487873, Cl = 1.71 could not be interpolated (Clmax = 1.68)
+           Span pos =  -0.86m, Re = 494606, Cl = 1.71 could not be interpolated (Clmax = 1.68)
+           Span pos =  -0.83m, Re = 501340, Cl = 1.70 could not be interpolated (Clmax = 1.68)
+           Span pos =  -0.80m, Re = 508074, Cl = 1.69 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.80m, Re = 508074, Cl = 1.69 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.83m, Re = 501340, Cl = 1.70 could not be interpolated (Clmax = 1.68)
+           Span pos =   0.86m, Re = 494606, Cl = 1.71 could not be interpolated (Clmax = 1.68)
+           Span pos =   0.90m, Re = 487873, Cl = 1.71 could not be interpolated (Clmax = 1.68)
+           Span pos =   0.93m, Re = 481139, Cl = 1.72 could not be interpolated (Clmax = 1.68)
+           Span pos =   0.97m, Re = 474405, Cl = 1.73 could not be interpolated (Clmax = 1.67)
+           Span pos =   1.00m, Re = 467671, Cl = 1.74 could not be interpolated (Clmax = 1.67)
+           Span pos =   1.03m, Re = 460937, Cl = 1.75 could not be interpolated (Clmax = 1.67)
+           Span pos =   1.07m, Re = 454204, Cl = 1.76 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.10m, Re = 450837, Cl = 1.77 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.12m, Re = 450837, Cl = 1.77 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.14m, Re = 450837, Cl = 1.76 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.17m, Re = 450837, Cl = 1.75 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.19m, Re = 450837, Cl = 1.74 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.21m, Re = 450837, Cl = 1.74 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.24m, Re = 450837, Cl = 1.73 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.26m, Re = 450837, Cl = 1.72 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.28m, Re = 450837, Cl = 1.71 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.31m, Re = 450837, Cl = 1.71 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.33m, Re = 450837, Cl = 1.70 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.35m, Re = 450837, Cl = 1.69 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.38m, Re = 450837, Cl = 1.69 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.40m, Re = 450837, Cl = 1.68 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.42m, Re = 450837, Cl = 1.67 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.45m, Re = 450837, Cl = 1.66 could not be interpolated (Clmax = 1.66)
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha=  13.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =  -1.63m, Re = 450837, Cl = 1.66 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.61m, Re = 450837, Cl = 1.67 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.59m, Re = 450837, Cl = 1.68 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.56m, Re = 450837, Cl = 1.69 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.54m, Re = 450837, Cl = 1.70 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.52m, Re = 450837, Cl = 1.71 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.49m, Re = 450837, Cl = 1.72 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.47m, Re = 450837, Cl = 1.73 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.45m, Re = 450837, Cl = 1.74 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.42m, Re = 450837, Cl = 1.75 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.40m, Re = 450837, Cl = 1.76 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.38m, Re = 450837, Cl = 1.76 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.35m, Re = 450837, Cl = 1.77 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.33m, Re = 450837, Cl = 1.78 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.31m, Re = 450837, Cl = 1.79 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.28m, Re = 450837, Cl = 1.80 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.26m, Re = 450837, Cl = 1.80 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.24m, Re = 450837, Cl = 1.81 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.21m, Re = 450837, Cl = 1.82 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.19m, Re = 450837, Cl = 1.83 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.17m, Re = 450837, Cl = 1.83 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.14m, Re = 450837, Cl = 1.84 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.12m, Re = 450837, Cl = 1.85 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.10m, Re = 450837, Cl = 1.86 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.07m, Re = 454204, Cl = 1.84 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.03m, Re = 460937, Cl = 1.83 could not be interpolated (Clmax = 1.67)
+           Span pos =  -1.00m, Re = 467671, Cl = 1.82 could not be interpolated (Clmax = 1.67)
+           Span pos =  -0.97m, Re = 474405, Cl = 1.81 could not be interpolated (Clmax = 1.67)
+           Span pos =  -0.93m, Re = 481139, Cl = 1.80 could not be interpolated (Clmax = 1.68)
+           Span pos =  -0.90m, Re = 487873, Cl = 1.80 could not be interpolated (Clmax = 1.68)
+           Span pos =  -0.86m, Re = 494606, Cl = 1.79 could not be interpolated (Clmax = 1.68)
+           Span pos =  -0.83m, Re = 501340, Cl = 1.78 could not be interpolated (Clmax = 1.68)
+           Span pos =  -0.80m, Re = 508074, Cl = 1.77 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.76m, Re = 514808, Cl = 1.76 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.73m, Re = 521542, Cl = 1.75 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.70m, Re = 528275, Cl = 1.75 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.66m, Re = 535009, Cl = 1.74 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.63m, Re = 541743, Cl = 1.73 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.59m, Re = 548477, Cl = 1.72 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.56m, Re = 555211, Cl = 1.71 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.53m, Re = 561944, Cl = 1.71 could not be interpolated (Clmax = 1.70)
+           Span pos =   0.53m, Re = 561944, Cl = 1.71 could not be interpolated (Clmax = 1.70)
+           Span pos =   0.56m, Re = 555211, Cl = 1.71 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.59m, Re = 548477, Cl = 1.72 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.63m, Re = 541743, Cl = 1.73 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.66m, Re = 535009, Cl = 1.74 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.70m, Re = 528275, Cl = 1.75 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.73m, Re = 521542, Cl = 1.75 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.76m, Re = 514808, Cl = 1.76 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.80m, Re = 508074, Cl = 1.77 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.83m, Re = 501340, Cl = 1.78 could not be interpolated (Clmax = 1.68)
+           Span pos =   0.86m, Re = 494606, Cl = 1.79 could not be interpolated (Clmax = 1.68)
+           Span pos =   0.90m, Re = 487873, Cl = 1.80 could not be interpolated (Clmax = 1.68)
+           Span pos =   0.93m, Re = 481139, Cl = 1.80 could not be interpolated (Clmax = 1.68)
+           Span pos =   0.97m, Re = 474405, Cl = 1.81 could not be interpolated (Clmax = 1.67)
+           Span pos =   1.00m, Re = 467671, Cl = 1.82 could not be interpolated (Clmax = 1.67)
+           Span pos =   1.03m, Re = 460937, Cl = 1.83 could not be interpolated (Clmax = 1.67)
+           Span pos =   1.07m, Re = 454204, Cl = 1.84 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.10m, Re = 450837, Cl = 1.86 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.12m, Re = 450837, Cl = 1.85 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.14m, Re = 450837, Cl = 1.84 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.17m, Re = 450837, Cl = 1.83 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.19m, Re = 450837, Cl = 1.83 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.21m, Re = 450837, Cl = 1.82 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.24m, Re = 450837, Cl = 1.81 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.26m, Re = 450837, Cl = 1.80 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.28m, Re = 450837, Cl = 1.80 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.31m, Re = 450837, Cl = 1.79 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.33m, Re = 450837, Cl = 1.78 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.35m, Re = 450837, Cl = 1.77 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.38m, Re = 450837, Cl = 1.76 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.40m, Re = 450837, Cl = 1.76 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.42m, Re = 450837, Cl = 1.75 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.45m, Re = 450837, Cl = 1.74 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.47m, Re = 450837, Cl = 1.73 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.49m, Re = 450837, Cl = 1.72 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.52m, Re = 450837, Cl = 1.71 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.54m, Re = 450837, Cl = 1.70 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.56m, Re = 450837, Cl = 1.69 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.59m, Re = 450837, Cl = 1.68 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.61m, Re = 450837, Cl = 1.67 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.63m, Re = 450837, Cl = 1.66 could not be interpolated (Clmax = 1.66)
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha=  14.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =  -1.75m, Re = 450837, Cl = 1.67 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.72m, Re = 450837, Cl = 1.68 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.70m, Re = 450837, Cl = 1.70 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.68m, Re = 450837, Cl = 1.71 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.65m, Re = 450837, Cl = 1.72 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.63m, Re = 450837, Cl = 1.73 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.61m, Re = 450837, Cl = 1.75 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.59m, Re = 450837, Cl = 1.76 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.56m, Re = 450837, Cl = 1.77 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.54m, Re = 450837, Cl = 1.78 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.52m, Re = 450837, Cl = 1.79 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.49m, Re = 450837, Cl = 1.80 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.47m, Re = 450837, Cl = 1.81 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.45m, Re = 450837, Cl = 1.82 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.42m, Re = 450837, Cl = 1.83 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.40m, Re = 450837, Cl = 1.83 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.38m, Re = 450837, Cl = 1.84 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.35m, Re = 450837, Cl = 1.85 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.33m, Re = 450837, Cl = 1.86 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.31m, Re = 450837, Cl = 1.87 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.28m, Re = 450837, Cl = 1.88 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.26m, Re = 450837, Cl = 1.88 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.24m, Re = 450837, Cl = 1.89 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.21m, Re = 450837, Cl = 1.90 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.19m, Re = 450837, Cl = 1.91 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.17m, Re = 450837, Cl = 1.92 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.14m, Re = 450837, Cl = 1.92 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.12m, Re = 450837, Cl = 1.93 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.10m, Re = 450837, Cl = 1.94 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.07m, Re = 454204, Cl = 1.93 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.03m, Re = 460937, Cl = 1.91 could not be interpolated (Clmax = 1.67)
+           Span pos =  -1.00m, Re = 467671, Cl = 1.90 could not be interpolated (Clmax = 1.67)
+           Span pos =  -0.97m, Re = 474405, Cl = 1.89 could not be interpolated (Clmax = 1.67)
+           Span pos =  -0.93m, Re = 481139, Cl = 1.88 could not be interpolated (Clmax = 1.68)
+           Span pos =  -0.90m, Re = 487873, Cl = 1.88 could not be interpolated (Clmax = 1.68)
+           Span pos =  -0.86m, Re = 494606, Cl = 1.87 could not be interpolated (Clmax = 1.68)
+           Span pos =  -0.83m, Re = 501340, Cl = 1.86 could not be interpolated (Clmax = 1.68)
+           Span pos =  -0.80m, Re = 508074, Cl = 1.85 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.76m, Re = 514808, Cl = 1.84 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.73m, Re = 521542, Cl = 1.83 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.70m, Re = 528275, Cl = 1.82 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.66m, Re = 535009, Cl = 1.82 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.63m, Re = 541743, Cl = 1.81 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.59m, Re = 548477, Cl = 1.80 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.56m, Re = 555211, Cl = 1.79 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.53m, Re = 561944, Cl = 1.78 could not be interpolated (Clmax = 1.70)
+           Span pos =  -0.49m, Re = 568678, Cl = 1.77 could not be interpolated (Clmax = 1.70)
+           Span pos =  -0.46m, Re = 575412, Cl = 1.76 could not be interpolated (Clmax = 1.70)
+           Span pos =  -0.42m, Re = 582146, Cl = 1.76 could not be interpolated (Clmax = 1.70)
+           Span pos =  -0.39m, Re = 588879, Cl = 1.75 could not be interpolated (Clmax = 1.71)
+           Span pos =  -0.36m, Re = 595613, Cl = 1.74 could not be interpolated (Clmax = 1.71)
+           Span pos =  -0.32m, Re = 602347, Cl = 1.73 could not be interpolated (Clmax = 1.71)
+           Span pos =  -0.29m, Re = 609081, Cl = 1.72 could not be interpolated (Clmax = 1.71)
+           Span pos =   0.29m, Re = 609081, Cl = 1.72 could not be interpolated (Clmax = 1.71)
+           Span pos =   0.32m, Re = 602347, Cl = 1.73 could not be interpolated (Clmax = 1.71)
+           Span pos =   0.36m, Re = 595613, Cl = 1.74 could not be interpolated (Clmax = 1.71)
+           Span pos =   0.39m, Re = 588879, Cl = 1.75 could not be interpolated (Clmax = 1.71)
+           Span pos =   0.42m, Re = 582146, Cl = 1.76 could not be interpolated (Clmax = 1.70)
+           Span pos =   0.46m, Re = 575412, Cl = 1.76 could not be interpolated (Clmax = 1.70)
+           Span pos =   0.49m, Re = 568678, Cl = 1.77 could not be interpolated (Clmax = 1.70)
+           Span pos =   0.53m, Re = 561944, Cl = 1.78 could not be interpolated (Clmax = 1.70)
+           Span pos =   0.56m, Re = 555211, Cl = 1.79 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.59m, Re = 548477, Cl = 1.80 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.63m, Re = 541743, Cl = 1.81 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.66m, Re = 535009, Cl = 1.82 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.70m, Re = 528275, Cl = 1.82 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.73m, Re = 521542, Cl = 1.83 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.76m, Re = 514808, Cl = 1.84 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.80m, Re = 508074, Cl = 1.85 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.83m, Re = 501340, Cl = 1.86 could not be interpolated (Clmax = 1.68)
+           Span pos =   0.86m, Re = 494606, Cl = 1.87 could not be interpolated (Clmax = 1.68)
+           Span pos =   0.90m, Re = 487873, Cl = 1.88 could not be interpolated (Clmax = 1.68)
+           Span pos =   0.93m, Re = 481139, Cl = 1.88 could not be interpolated (Clmax = 1.68)
+           Span pos =   0.97m, Re = 474405, Cl = 1.89 could not be interpolated (Clmax = 1.67)
+           Span pos =   1.00m, Re = 467671, Cl = 1.90 could not be interpolated (Clmax = 1.67)
+           Span pos =   1.03m, Re = 460937, Cl = 1.91 could not be interpolated (Clmax = 1.67)
+           Span pos =   1.07m, Re = 454204, Cl = 1.93 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.10m, Re = 450837, Cl = 1.94 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.12m, Re = 450837, Cl = 1.93 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.14m, Re = 450837, Cl = 1.92 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.17m, Re = 450837, Cl = 1.92 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.19m, Re = 450837, Cl = 1.91 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.21m, Re = 450837, Cl = 1.90 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.24m, Re = 450837, Cl = 1.89 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.26m, Re = 450837, Cl = 1.88 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.28m, Re = 450837, Cl = 1.88 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.31m, Re = 450837, Cl = 1.87 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.33m, Re = 450837, Cl = 1.86 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.35m, Re = 450837, Cl = 1.85 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.38m, Re = 450837, Cl = 1.84 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.40m, Re = 450837, Cl = 1.83 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.42m, Re = 450837, Cl = 1.83 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.45m, Re = 450837, Cl = 1.82 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.47m, Re = 450837, Cl = 1.81 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.49m, Re = 450837, Cl = 1.80 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.52m, Re = 450837, Cl = 1.79 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.54m, Re = 450837, Cl = 1.78 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.56m, Re = 450837, Cl = 1.77 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.59m, Re = 450837, Cl = 1.76 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.61m, Re = 450837, Cl = 1.75 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.63m, Re = 450837, Cl = 1.73 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.65m, Re = 450837, Cl = 1.72 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.68m, Re = 450837, Cl = 1.71 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.70m, Re = 450837, Cl = 1.70 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.72m, Re = 450837, Cl = 1.68 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.75m, Re = 450837, Cl = 1.67 could not be interpolated (Clmax = 1.66)
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+      Computing Plane for alpha=  15.00°
+       Calculating aerodynamic coefficients...
+         Calculating wing...Main Wing
+           Span pos =  -2.35m, Re = 305595 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =  -2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =  -2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =  -2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =  -2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =  -2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =  -2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =  -2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =  -2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =  -2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =  -2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =  -2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =  -2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =  -2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =  -2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =  -2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =  -1.84m, Re = 450837, Cl = 1.67 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.82m, Re = 450837, Cl = 1.69 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.79m, Re = 450837, Cl = 1.70 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.77m, Re = 450837, Cl = 1.72 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.75m, Re = 450837, Cl = 1.74 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.72m, Re = 450837, Cl = 1.75 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.70m, Re = 450837, Cl = 1.77 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.68m, Re = 450837, Cl = 1.78 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.65m, Re = 450837, Cl = 1.79 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.63m, Re = 450837, Cl = 1.81 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.61m, Re = 450837, Cl = 1.82 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.59m, Re = 450837, Cl = 1.83 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.56m, Re = 450837, Cl = 1.84 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.54m, Re = 450837, Cl = 1.85 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.52m, Re = 450837, Cl = 1.86 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.49m, Re = 450837, Cl = 1.87 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.47m, Re = 450837, Cl = 1.88 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.45m, Re = 450837, Cl = 1.89 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.42m, Re = 450837, Cl = 1.90 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.40m, Re = 450837, Cl = 1.91 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.38m, Re = 450837, Cl = 1.92 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.35m, Re = 450837, Cl = 1.93 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.33m, Re = 450837, Cl = 1.94 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.31m, Re = 450837, Cl = 1.95 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.28m, Re = 450837, Cl = 1.95 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.26m, Re = 450837, Cl = 1.96 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.24m, Re = 450837, Cl = 1.97 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.21m, Re = 450837, Cl = 1.98 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.19m, Re = 450837, Cl = 1.99 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.17m, Re = 450837, Cl = 2.00 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.14m, Re = 450837, Cl = 2.00 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.12m, Re = 450837, Cl = 2.01 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.10m, Re = 450837, Cl = 2.02 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.07m, Re = 454204, Cl = 2.01 could not be interpolated (Clmax = 1.66)
+           Span pos =  -1.03m, Re = 460937, Cl = 1.99 could not be interpolated (Clmax = 1.67)
+           Span pos =  -1.00m, Re = 467671, Cl = 1.98 could not be interpolated (Clmax = 1.67)
+           Span pos =  -0.97m, Re = 474405, Cl = 1.97 could not be interpolated (Clmax = 1.67)
+           Span pos =  -0.93m, Re = 481139, Cl = 1.96 could not be interpolated (Clmax = 1.68)
+           Span pos =  -0.90m, Re = 487873, Cl = 1.95 could not be interpolated (Clmax = 1.68)
+           Span pos =  -0.86m, Re = 494606, Cl = 1.94 could not be interpolated (Clmax = 1.68)
+           Span pos =  -0.83m, Re = 501340, Cl = 1.94 could not be interpolated (Clmax = 1.68)
+           Span pos =  -0.80m, Re = 508074, Cl = 1.93 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.76m, Re = 514808, Cl = 1.92 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.73m, Re = 521542, Cl = 1.91 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.70m, Re = 528275, Cl = 1.90 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.66m, Re = 535009, Cl = 1.89 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.63m, Re = 541743, Cl = 1.88 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.59m, Re = 548477, Cl = 1.87 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.56m, Re = 555211, Cl = 1.86 could not be interpolated (Clmax = 1.69)
+           Span pos =  -0.53m, Re = 561944, Cl = 1.86 could not be interpolated (Clmax = 1.70)
+           Span pos =  -0.49m, Re = 568678, Cl = 1.85 could not be interpolated (Clmax = 1.70)
+           Span pos =  -0.46m, Re = 575412, Cl = 1.84 could not be interpolated (Clmax = 1.70)
+           Span pos =  -0.42m, Re = 582146, Cl = 1.83 could not be interpolated (Clmax = 1.70)
+           Span pos =  -0.39m, Re = 588879, Cl = 1.82 could not be interpolated (Clmax = 1.71)
+           Span pos =  -0.36m, Re = 595613, Cl = 1.81 could not be interpolated (Clmax = 1.71)
+           Span pos =  -0.32m, Re = 602347, Cl = 1.80 could not be interpolated (Clmax = 1.71)
+           Span pos =  -0.29m, Re = 609081, Cl = 1.79 could not be interpolated (Clmax = 1.71)
+           Span pos =  -0.25m, Re = 615815, Cl = 1.78 could not be interpolated (Clmax = 1.72)
+           Span pos =  -0.22m, Re = 622548, Cl = 1.77 could not be interpolated (Clmax = 1.72)
+           Span pos =  -0.19m, Re = 629282, Cl = 1.76 could not be interpolated (Clmax = 1.72)
+           Span pos =  -0.15m, Re = 636016, Cl = 1.75 could not be interpolated (Clmax = 1.72)
+           Span pos =  -0.12m, Re = 642750, Cl = 1.73 could not be interpolated (Clmax = 1.73)
+           Span pos =  -0.08m, Re = 649484, Cl = 1.72 could not be interpolated (Clmax = 1.73)
+           Span pos =   0.08m, Re = 649484, Cl = 1.72 could not be interpolated (Clmax = 1.73)
+           Span pos =   0.12m, Re = 642750, Cl = 1.73 could not be interpolated (Clmax = 1.73)
+           Span pos =   0.15m, Re = 636016, Cl = 1.75 could not be interpolated (Clmax = 1.72)
+           Span pos =   0.19m, Re = 629282, Cl = 1.76 could not be interpolated (Clmax = 1.72)
+           Span pos =   0.22m, Re = 622548, Cl = 1.77 could not be interpolated (Clmax = 1.72)
+           Span pos =   0.25m, Re = 615815, Cl = 1.78 could not be interpolated (Clmax = 1.72)
+           Span pos =   0.29m, Re = 609081, Cl = 1.79 could not be interpolated (Clmax = 1.71)
+           Span pos =   0.32m, Re = 602347, Cl = 1.80 could not be interpolated (Clmax = 1.71)
+           Span pos =   0.36m, Re = 595613, Cl = 1.81 could not be interpolated (Clmax = 1.71)
+           Span pos =   0.39m, Re = 588879, Cl = 1.82 could not be interpolated (Clmax = 1.71)
+           Span pos =   0.42m, Re = 582146, Cl = 1.83 could not be interpolated (Clmax = 1.70)
+           Span pos =   0.46m, Re = 575412, Cl = 1.84 could not be interpolated (Clmax = 1.70)
+           Span pos =   0.49m, Re = 568678, Cl = 1.85 could not be interpolated (Clmax = 1.70)
+           Span pos =   0.53m, Re = 561944, Cl = 1.86 could not be interpolated (Clmax = 1.70)
+           Span pos =   0.56m, Re = 555211, Cl = 1.86 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.59m, Re = 548477, Cl = 1.87 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.63m, Re = 541743, Cl = 1.88 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.66m, Re = 535009, Cl = 1.89 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.70m, Re = 528275, Cl = 1.90 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.73m, Re = 521542, Cl = 1.91 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.76m, Re = 514808, Cl = 1.92 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.80m, Re = 508074, Cl = 1.93 could not be interpolated (Clmax = 1.69)
+           Span pos =   0.83m, Re = 501340, Cl = 1.94 could not be interpolated (Clmax = 1.68)
+           Span pos =   0.86m, Re = 494606, Cl = 1.94 could not be interpolated (Clmax = 1.68)
+           Span pos =   0.90m, Re = 487873, Cl = 1.95 could not be interpolated (Clmax = 1.68)
+           Span pos =   0.93m, Re = 481139, Cl = 1.96 could not be interpolated (Clmax = 1.68)
+           Span pos =   0.97m, Re = 474405, Cl = 1.97 could not be interpolated (Clmax = 1.67)
+           Span pos =   1.00m, Re = 467671, Cl = 1.98 could not be interpolated (Clmax = 1.67)
+           Span pos =   1.03m, Re = 460937, Cl = 1.99 could not be interpolated (Clmax = 1.67)
+           Span pos =   1.07m, Re = 454204, Cl = 2.01 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.10m, Re = 450837, Cl = 2.02 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.12m, Re = 450837, Cl = 2.01 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.14m, Re = 450837, Cl = 2.00 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.17m, Re = 450837, Cl = 2.00 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.19m, Re = 450837, Cl = 1.99 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.21m, Re = 450837, Cl = 1.98 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.24m, Re = 450837, Cl = 1.97 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.26m, Re = 450837, Cl = 1.96 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.28m, Re = 450837, Cl = 1.95 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.31m, Re = 450837, Cl = 1.95 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.33m, Re = 450837, Cl = 1.94 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.35m, Re = 450837, Cl = 1.93 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.38m, Re = 450837, Cl = 1.92 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.40m, Re = 450837, Cl = 1.91 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.42m, Re = 450837, Cl = 1.90 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.45m, Re = 450837, Cl = 1.89 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.47m, Re = 450837, Cl = 1.88 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.49m, Re = 450837, Cl = 1.87 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.52m, Re = 450837, Cl = 1.86 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.54m, Re = 450837, Cl = 1.85 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.56m, Re = 450837, Cl = 1.84 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.59m, Re = 450837, Cl = 1.83 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.61m, Re = 450837, Cl = 1.82 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.63m, Re = 450837, Cl = 1.81 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.65m, Re = 450837, Cl = 1.79 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.68m, Re = 450837, Cl = 1.78 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.70m, Re = 450837, Cl = 1.77 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.72m, Re = 450837, Cl = 1.75 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.75m, Re = 450837, Cl = 1.74 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.77m, Re = 450837, Cl = 1.72 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.79m, Re = 450837, Cl = 1.70 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.82m, Re = 450837, Cl = 1.69 could not be interpolated (Clmax = 1.66)
+           Span pos =   1.84m, Re = 450837, Cl = 1.67 could not be interpolated (Clmax = 1.66)
+           Span pos =   2.16m, Re = 399648 is outside the flight envelope of polars
+           Span pos =   2.18m, Re = 390862 is outside the flight envelope of polars
+           Span pos =   2.20m, Re = 382334 is outside the flight envelope of polars
+           Span pos =   2.21m, Re = 374098 is outside the flight envelope of polars
+           Span pos =   2.23m, Re = 366191 is outside the flight envelope of polars
+           Span pos =   2.24m, Re = 358647 is outside the flight envelope of polars
+           Span pos =   2.26m, Re = 351497 is outside the flight envelope of polars
+           Span pos =   2.27m, Re = 344773 is outside the flight envelope of polars
+           Span pos =   2.28m, Re = 338503 is outside the flight envelope of polars
+           Span pos =   2.30m, Re = 332714 is outside the flight envelope of polars
+           Span pos =   2.31m, Re = 327431 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 322676 is outside the flight envelope of polars
+           Span pos =   2.32m, Re = 318470 is outside the flight envelope of polars
+           Span pos =   2.33m, Re = 314831 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 311775 is outside the flight envelope of polars
+           Span pos =   2.34m, Re = 309313 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 307458 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 306217 is outside the flight envelope of polars
+           Span pos =   2.35m, Re = 305595 is outside the flight envelope of polars
+
+
+Panel Analysis completed ... Errors encountered
+
+Analysis ended Mon Jan 6 14:32:38 2025
+Elapsed: 152.451 s
